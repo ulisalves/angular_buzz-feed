@@ -1,0 +1,100 @@
+{
+    "title":"Teste Vocacional Rápido",
+    "questions":[
+      {
+        "id":1,
+        "question": "Você prefere ambientes...",
+        "options":[
+          {"id": 1, "name":"Imersivos, como uma biblioteca, laboratórios ou uma sala só para você.", "alias":"A"},
+          {"id": 2, "name":"Movimentados, com pessoas inteligentes e interessantes.", "alias":"B"},
+          {"id": 3, "name":"Cheio de novidades, destacando o que há de mais novo no mundo.", "alias":"C"},
+          {"id": 4, "name":"Onde possa aprender com referências da área com uma infraestrutura que propicie o aprendizado.", "alias":"D"},
+          {"id": 5, "name":"Ricos em detalhes, onde é possível perceber mensagens implícitas que traduzam o espírito do local.", "alias":"E"}
+        ]
+      },
+      {
+        "id":2,
+        "question": "Quando encontro pessoas com ideias diferentes das minhas...",
+        "options":[
+          {"id": 1, "name":"Detesto! É cansativo explicar o óbvio.", "alias":"A"},
+          {"id": 2, "name":"Fico animado! Um debate saudável é sempre uma boa forma de evolução.", "alias":"B"},
+          {"id": 3, "name":"Ouço com atenção e tento aprender algo.", "alias":"C"},
+          {"id": 4, "name":"Presto atenção somente se é algo que não sei.", "alias":"D"},
+          {"id": 5, "name":"Aproveito a oportunidade pra evoluir! Elas podem me mostrar onde estou errado.", "alias":"E"}
+        ]
+      },
+      {
+        "id":3,
+        "question": "Quando vou estudar...",
+        "options":[
+          {"id": 1, "name":"Fico animado! Absorvo todos os detalhes.", "alias":"A"},
+          {"id": 2, "name":"Gosto de focar no que tem aplicação prática na minha vida.", "alias":"B"},
+          {"id": 3, "name":"Fico bastante focado. Penso em como colocar em prática o que estou aprendendo.", "alias":"C"},
+          {"id": 4, "name":"Gosto, mas depende muito do assunto.", "alias":"D"},
+          {"id": 5, "name":"Reflito bastante sobre o tema aprendido e tento fazer correlações com outros assuntos.", "alias":"E"}
+        ]
+      },
+      {
+        "id":4,
+        "question": "Sobre a minha profissão...",
+        "options":[
+          {"id": 1, "name":"Quero ser uma referência! Quero dominar o tema!", "alias":"A"},
+          {"id": 2, "name":"Quero algo bem prático e que lide com pessoas.", "alias":"B"},
+          {"id": 3, "name":"Espero que seja bem desafiadora (como nos filmes!).", "alias":"C"},
+          {"id": 4, "name":"Quero trabalhar com tecnologia e várias informações.", "alias":"D"},
+          {"id": 5, "name":"Precisa ter um propósito. Quero ajudar pessoas e fazer um ambiente melhor.", "alias":"E"}
+        ]
+      },
+      {
+        "id":5,
+        "question": "Hoje, o mundo está...",
+        "options":[
+          {"id": 1, "name":"Cheio de mimimi. As pessoas precisam parar de reclamar, arregaçar as mangas e fazer o seu.", "alias":"A"},
+          {"id": 2, "name":"Mudando. O que é ótimo. Os problemas estão sendo cada vez mais evidenciados.", "alias":"B"},
+          {"id": 3, "name":"Passando por mais um ciclo. O importante é observar bem as mudanças e tirar o melhor proveito.", "alias":"C"},
+          {"id": 4, "name":"Cheio de novas oportunidades. As pessoas podem cada vez mais se expressar.", "alias":"D"},
+          {"id": 5, "name":"Mudando. Há novas variáveis culturais e tecnológicas que mudam a maneira como as pessoas se relacionam.", "alias":"E"}
+        ]
+      },
+      {
+        "id":6,
+        "question": "Minha meta para o futuro é...",
+        "options":[
+          {"id": 1, "name":"Ter uma carreira de sucesso, nunca parando de estudar e sempre me renovando.", "alias":"A"},
+          {"id": 2, "name":"Conciliar minha vida pessoal com a profissional. Qualidade de vida vem em primeiro lugar.", "alias":"B"},
+          {"id": 3, "name":"Conseguir aproveitar o melhor de cada oportunidade.", "alias":"C"},
+          {"id": 4, "name":"Ter uma rotina bem definida, permitindo que eu conheça as soluções necessárias.", "alias":"D"},
+          {"id": 5, "name":"Conciliar minha vida pessoal e profissional. Claro, ganhando bem e trazendo coisas boas.", "alias":"E"}
+        ]
+      },
+      {
+        "id":7,
+        "question": "Sobre a minha graduação...",
+        "options":[
+          {"id": 1, "name":"Vou estudar bastante. Meu foco é aprender o máximo que puder.", "alias":"A"},
+          {"id": 2, "name":"Espero que seja bem atualizado e cheio de novidades. Precisa estar em linha com o que há de mais novo no mercado.", "alias":"B"},
+          {"id": 3, "name":"Lugar para aprender e fazer amigos. Não há nada de errado em aprender e ainda dar boas risadas.", "alias":"C"},
+          {"id": 4, "name":"Além de estudar, irei fazer um bom networking. É necessário entender que faculdade não se resume a livros.", "alias":"D"},
+          {"id": 5, "name":"É o começo de minha jornada! Estudar bastante e, quem sabe, uma pós ou um MBA logo depois.", "alias":"E"}
+        ]
+      },
+      {
+        "id":8,
+        "question": "Quando me falam que ter um diploma é importante...",
+        "options":[
+          {"id": 1, "name":"Concordo. Dados mostram que pessoas com ensino superior ganham mais.", "alias":"A"},
+          {"id": 2, "name":"Concordo. Um diploma abre um leque muito maior de opções no mercado.", "alias":"B"},
+          {"id": 3, "name":"Tendo a concordar, mas não é obrigatório. O importante é entender os objetivos de uma pessoa.", "alias":"C"},
+          {"id": 4, "name":"Concordo. É importante ir absorvendo novos conhecimentos e depois ter uma formalização disso.", "alias":"D"},
+          {"id": 5, "name":"Discordo. O importante é o conhecimento. Infelizmente, para algumas carreiras ainda é obrigatório.", "alias":"E"}
+        ]
+      }      
+    ],
+    "results":{
+      "A": "Você tem um perfil ANALÍTICO! Gosta de se basear em dados. Algumas sugestões: Análise de Sistemas, Matemática, Ciências contábeis, Ciências Econômicas, Ciências de dados e similares.",
+      "B": "Você tem o perfil ESTRATÉGICO! Gosta de analisar todas as possibilidades antes de entrar em ação. Algumas sugestões: Marketing, Administração, Gestão comercial, Engenharia Civil, Gestão Pública e similares.",
+      "C": "Você tem um perfil de GESTOR! Você tem características para gerir recursos e pessoas. Algumas sugestões:  Administração, Agronomia, Engenharia de Produção, Gestão Pública, Gestão Financeira, Agronegócio",
+      "D": "Você tem o perfil ESPECIALISTA! Alguém com sede de conhecimento e vê uma carreira de longo prazo. Algumas sugestões: Medicina, Direito, Arquitetura, Enfermagem, Farmácia, Psicologia, Odontologia e Fisioterapia.",
+      "E": "Você tem o perfil INOVADOR! Gosta de mudanças e elevar o nível do que está ao seu redor. Algumas sugestões: Gestão Ambiental, DevOps, Design, Arquitetura e Urbanismo, Jornalismo e Engenharia de Produção."
+    }
+  }
